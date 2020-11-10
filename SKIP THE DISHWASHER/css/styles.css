@@ -1,0 +1,220 @@
+.landing-page {
+  background-image: url("https://wallpaperaccess.com/full/271687.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fa-utensils {
+  color: white;
+}
+
+.fa-comment {
+  color: white;
+  padding-right: 1px;
+}
+
+.fa-globe {
+  color: white;
+}
+
+.fa-user {
+  color: white;
+}
+
+.navbar-brand {
+  padding: 10px 20px;
+  font-size: 2em;
+}
+
+.nav-link {
+  font-size: 1.5em;
+}
+
+.welcome {
+  color: white;
+  font-size: 50pt;
+  font-weight: 600;
+  text-align: center;
+  padding-top: 4em;
+  padding-bottom: .25em;
+}
+
+.center-input {
+  margin-left: 25%;
+}
+
+.user-input {
+  align-self: center;
+}
+
+.fa-map-marker-alt {
+  padding: 0;
+  font-size: 20pt;
+  position: relative;
+  color: black;
+}
+
+.fa-dot-circle {
+  padding: 0;
+  font-size: 20pt;
+  color: black;
+}
+
+.center-input {
+  margin-left: 21%;
+}
+
+.form-control {
+  height: 60px;
+}
+
+.find-restaraunt-text {
+  padding-top: 10px;
+}
+
+.find-restaraunt {
+  color: white;
+  font-size: 15pt;
+  text-align: center;
+  height: 50px;
+  background-color: darkorange;
+}
+
+.find-restaraunt:hover {
+  background-color: #eb5834;
+}
+
+.down-page-icon {
+  padding-bottom: 1rem;
+  font-size: 50pt;
+  padding-left: 49%;
+  padding-top: 5rem;
+}
+
+.fa-chevron-down {
+  color: white;
+}
+
+/* carousel/slideshow section */
+
+.carousel-header {
+  color: black;
+  font-weight: 600;
+  margin-left: 10rem;
+  margin-top: 5rem;
+}
+
+.carousel-paragraph {
+  color: gray;
+  font-weight: 600;
+  margin-left: 10rem;
+}
+
+.carousel-pic {
+  width: 700px;
+  height: 600px;
+  float: right;
+}
+
+.carousel-indicators {
+  top: 5%;
+}
+
+.carousel-indicators .active {
+ background-color: red;
+}
+
+.carousel-indicators li {
+  width: 30px;
+  height: 5px;
+  background-color: grey;
+}
+
+/** Download Section **/
+
+.download-section {
+  background-color: #111b22;
+}
+
+.phones {
+  margin-left: 30%;
+  margin-top: 10%;
+  height: 600px;
+}
+
+.download-section-right {
+  color: white;
+}
+
+.download-section-right-container {
+  margin-top: 30%;
+  margin-left: 10%;
+  margin-right: 25%;
+}
+
+/** Cards Section **/
+
+.card {
+  border: none;
+  background-color: white;
+  padding: 0;
+}
+
+.card-header {
+  text-align: center;
+  background-color: white;
+}
+
+.card-header p {
+  font-size: 18px;
+}
+.card-body {
+  text-align: center;
+}
+
+.btn {
+  background-color: white;
+  width: 100%;
+}
+
+.btn:hover {
+  background-color: white;
+}
+
+.card-section {
+padding: 2rem 1rem;
+background-color: #f9fafb;
+}
+
+/** FOOTER **/
+
+footer {
+  background-color: #0c151d;
+}
+
+footer ul {
+  list-style-type: none;
+  font-size: 20px;
+  margin-left: 10%;
+  padding: 2rem 0;
+}
+
+footer li {
+  padding: 1rem;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+footer .fab {
+  color: white;
+  font-size: 25px;
+  padding: 3rem 1rem;
+  align-content: center;
+}
